@@ -4,3 +4,4 @@ const mensaje = "hola mundo"
 
 console.log(mensaje)
 
+console.log(mensaje)
